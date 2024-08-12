@@ -44,3 +44,31 @@
   transition: background-color 0.3s;
 }
 
+.fat-row-table th:hover {
+  background-color: #0056b3;
+}
+
+.fat-row-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.fat-row-table td.client-metrics {
+  background-color: #e6f7ff;
+}
+
+.fat-row-table td.server-metrics {
+  background-color: #fff0f6;
+}
+
+@media (max-width: 768px) {
+  .fat-row-table th,
+  .fat-row-table td {
+    padding: 10px;
+  }
+
+  .controls input,
+  .controls select {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
