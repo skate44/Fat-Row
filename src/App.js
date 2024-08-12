@@ -3,7 +3,7 @@ import './index.css';
 function App() {
   return (
     <div className="App">
-      Let's start
+      <h1 style={{textAlign: 'center', marginTop: '20px'}}>Service Metrics Table</h1>
     </div>
   );
 }
