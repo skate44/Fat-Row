@@ -6,3 +6,41 @@
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.controls input,
+.controls select {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 48%;
+  box-sizing: border-box;
+}
+
+.fat-row-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Times New Roman', Georgia, serif;
+  color: #333;
+}
+
+.fat-row-table th,
+.fat-row-table td {
+  padding: 7px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.fat-row-table th {
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
