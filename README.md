@@ -18,17 +18,25 @@ The **Fat Row Table** project is a dynamic and responsive web table designed to 
 ## Installation
 To set up the project locally:
 
-1. Clone the repository:
-   git clone https://github.com/skate44/Fat-Table.git
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/skate44/Fat-Table.git
+    ```
 
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
+    ```bash
     cd fat-table
+    ```
 
-3. Install dependencies (if any):
+3. **Install dependencies (if any):**
+    ```bash
     npm install
+    ```
 
-4. Start the development server:
+4. **Start the development server:**
+    ```bash
     npm start
+    ```
 
 ## Usage
 
