@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fat-Table/static/css/main.ecf13453.css",
+    "main.js": "/Fat-Table/static/js/main.d529d78e.js",
+    "static/js/453.b4739a3f.chunk.js": "/Fat-Table/static/js/453.b4739a3f.chunk.js",
+    "index.html": "/Fat-Table/index.html",
+    "main.ecf13453.css.map": "/Fat-Table/static/css/main.ecf13453.css.map",
+    "main.d529d78e.js.map": "/Fat-Table/static/js/main.d529d78e.js.map",
+    "453.b4739a3f.chunk.js.map": "/Fat-Table/static/js/453.b4739a3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecf13453.css",
+    "static/js/main.d529d78e.js"
+  ]
+}
